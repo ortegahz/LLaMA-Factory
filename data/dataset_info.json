@@ -1,4 +1,7 @@
 {
+  "jade": {
+    "file_name": "jade.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
